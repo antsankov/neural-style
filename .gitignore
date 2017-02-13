@@ -1,3 +1,4 @@
+.env.secret
 nut/
 *.swp
 out*.png
